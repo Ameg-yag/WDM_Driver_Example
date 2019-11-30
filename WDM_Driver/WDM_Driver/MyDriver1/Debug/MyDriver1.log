@@ -1,0 +1,22 @@
+﻿  Building 'MyDriver1' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping Debug\MyDriver1.inf
+  Stamping [Version] section with DriverVer=11/29/2019,16.13.10.319
+  Source.c
+  MyDriver1.vcxproj -> D:\Projects\WDM_Driver\WDM_Driver\Debug\MyDriver1.sys
+  Done Adding Additional Store
+  Successfully signed: D:\Projects\WDM_Driver\WDM_Driver\Debug\MyDriver1.sys
+  
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  D:\Projects\WDM_Driver\WDM_Driver\Debug\MyDriver1\mydriver1.cat
+  Done Adding Additional Store
+  Successfully signed: D:\Projects\WDM_Driver\WDM_Driver\Debug\MyDriver1\mydriver1.cat
+  
